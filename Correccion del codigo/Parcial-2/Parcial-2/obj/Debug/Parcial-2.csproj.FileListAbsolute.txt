@@ -1,0 +1,15 @@
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\bin\Debug\Parcial-2.exe.config
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\bin\Debug\Parcial-2.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\bin\Debug\Parcial-2.pdb
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\obj\Debug\Parcial-2.csproj.AssemblyReference.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\obj\Debug\Parcial-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\obj\Debug\Parcial-2.csproj.CoreCompileInputs.cache
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\obj\Debug\Parcial-2.exe
+C:\Users\Dominion-User\Documents\umg\PROGRA1\EJEMPLOS-GIT\Parcial-2\Parcial-2\obj\Debug\Parcial-2.pdb
+C:\Users\Cristian Chamo\Desktop\Correccion del codigo\Parcial-2\Parcial-2\bin\Debug\Parcial-2.exe.config
+C:\Users\Cristian Chamo\Desktop\Correccion del codigo\Parcial-2\Parcial-2\bin\Debug\Parcial-2.exe
+C:\Users\Cristian Chamo\Desktop\Correccion del codigo\Parcial-2\Parcial-2\bin\Debug\Parcial-2.pdb
+C:\Users\Cristian Chamo\Desktop\Correccion del codigo\Parcial-2\Parcial-2\obj\Debug\Parcial-2.csproj.AssemblyReference.cache
+C:\Users\Cristian Chamo\Desktop\Correccion del codigo\Parcial-2\Parcial-2\obj\Debug\Parcial-2.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Correccion del codigo\Parcial-2\Parcial-2\obj\Debug\Parcial-2.exe
+C:\Users\Cristian Chamo\Desktop\Correccion del codigo\Parcial-2\Parcial-2\obj\Debug\Parcial-2.pdb
