@@ -1,0 +1,10 @@
+C:\Users\Cristian Chamo\Desktop\prueba\CapitalFinalDeAhorroPlazoFijo\CapitalFinalDeAhorroPlazoFijo\bin\Debug\CapitalFinalDeAhorroPlazoFijo.exe.config
+C:\Users\Cristian Chamo\Desktop\prueba\CapitalFinalDeAhorroPlazoFijo\CapitalFinalDeAhorroPlazoFijo\bin\Debug\CapitalFinalDeAhorroPlazoFijo.exe
+C:\Users\Cristian Chamo\Desktop\prueba\CapitalFinalDeAhorroPlazoFijo\CapitalFinalDeAhorroPlazoFijo\bin\Debug\CapitalFinalDeAhorroPlazoFijo.pdb
+C:\Users\Cristian Chamo\Desktop\prueba\CapitalFinalDeAhorroPlazoFijo\CapitalFinalDeAhorroPlazoFijo\obj\Debug\CapitalFinalDeAhorroPlazoFijo.csproj.AssemblyReference.cache
+C:\Users\Cristian Chamo\Desktop\prueba\CapitalFinalDeAhorroPlazoFijo\CapitalFinalDeAhorroPlazoFijo\obj\Debug\CapitalFinalDeAhorroPlazoFijo.Form1.resources
+C:\Users\Cristian Chamo\Desktop\prueba\CapitalFinalDeAhorroPlazoFijo\CapitalFinalDeAhorroPlazoFijo\obj\Debug\CapitalFinalDeAhorroPlazoFijo.Properties.Resources.resources
+C:\Users\Cristian Chamo\Desktop\prueba\CapitalFinalDeAhorroPlazoFijo\CapitalFinalDeAhorroPlazoFijo\obj\Debug\CapitalFinalDeAhorroPlazoFijo.csproj.GenerateResource.cache
+C:\Users\Cristian Chamo\Desktop\prueba\CapitalFinalDeAhorroPlazoFijo\CapitalFinalDeAhorroPlazoFijo\obj\Debug\CapitalFinalDeAhorroPlazoFijo.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\prueba\CapitalFinalDeAhorroPlazoFijo\CapitalFinalDeAhorroPlazoFijo\obj\Debug\CapitalFinalDeAhorroPlazoFijo.exe
+C:\Users\Cristian Chamo\Desktop\prueba\CapitalFinalDeAhorroPlazoFijo\CapitalFinalDeAhorroPlazoFijo\obj\Debug\CapitalFinalDeAhorroPlazoFijo.pdb
